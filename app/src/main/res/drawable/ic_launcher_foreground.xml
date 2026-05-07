@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Road icon centered in safe zone (inner 72x72 centered at 54,54) -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,81h18v3H54z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M52.5,27h3v9h-3z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M52.5,40.5h3v9h-3z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M52.5,54h3v4.5h-3z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M39,27l4.5,36H39z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M69,27l-4.5,36H69z" />
+</vector>
