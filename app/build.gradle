@@ -52,9 +52,15 @@ dependencies {
     implementation 'androidx.camera:camera-view:1.3.0'
 
     // Room
+<<<<<<< HEAD
     implementation 'androidx.room:room-runtime:2.7.0'
     implementation 'androidx.room:room-ktx:2.7.0'
     kapt 'androidx.room:room-compiler:2.7.0'
+=======
+    implementation 'androidx.room:room-runtime:2.6.1'
+    implementation 'androidx.room:room-ktx:2.6.1'
+    kapt 'androidx.room:room-compiler:2.6.1'
+>>>>>>> 2f37900 (Save local changes)
 
     // Location
     implementation 'com.google.android.gms:play-services-location:21.0.1'
