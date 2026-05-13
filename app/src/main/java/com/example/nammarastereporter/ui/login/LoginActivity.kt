@@ -43,25 +43,7 @@ class LoginActivity : AppCompatActivity() {
             binding.tilPassword.error = null
 
             val prefs = getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
-<<<<<<< HEAD
-            val savedUsername = prefs.getString(SignUpActivity.KEY_REGISTERED_USER, "")
-            val savedPassword = prefs.getString(SignUpActivity.KEY_REGISTERED_PASS, "")
 
-            when {
-                username.isEmpty() -> {
-                    binding.tilUsername.error = "Username is required"
-                }
-                password.isEmpty() -> {
-                    binding.tilPassword.error = "Password is required"
-                }
-                savedUsername.isNullOrEmpty() -> {
-                    Toast.makeText(this, "No account found. Please sign up first.", Toast.LENGTH_LONG).show()
-                }
-                username == savedUsername && password == savedPassword -> {
-                    // Save login state
-                    prefs.edit().putBoolean(KEY_LOGGED_IN, true).apply()
-=======
->>>>>>> be0a2a6 (Update Android project)
 
             // Hardcoded check
             if (username == "user" && password == "1234") {
@@ -79,10 +61,7 @@ class LoginActivity : AppCompatActivity() {
             }
         }
 
-        binding.btnGoToSignup.setOnClickListener {
-            val intent = Intent(this, SignUpActivity::class.java)
-            startActivity(intent)
-        }
+
     }
 
     private fun navigateToMain() {
