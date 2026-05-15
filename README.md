@@ -79,49 +79,6 @@ This helps improve road safety, reduce response time during emergencies, and sup
 - Secure access control
 - Admin and user modules
 
----
-
-# System Architecture
-
-The project follows a modular architecture consisting of:
-
-1. Frontend Layer  
-   Handles user interaction and dashboard visualization.
-
-2. Backend Layer  
-   Processes requests, APIs, authentication, and system logic.
-
-3. Database Layer  
-   Stores user data, reports, traffic information, and analytics.
-
-4. Monitoring & Analytics Layer  
-   Handles intelligent traffic analysis and monitoring.
-
----
-
-# Technologies Used
-
-## Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-
-## Backend
-- Node.js
-- Express.js
-
-## Database
-- MongoDB / Firebase
-
-## Other Technologies
-- REST APIs
-- Google Maps API
-- Machine Learning Concepts
-- Git & GitHub
-
----
-
 # Project Structure
 
 ```bash
