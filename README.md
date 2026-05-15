@@ -15,3 +15,27 @@ Improve road safety through faster complaint registration
 Enable accurate issue tracking using GPS and Ticket IDs
 Reduce manual work for local authorities
 Support smart city and smart village initiatives
+
+Features
+Capture Infrastructure Issues
+Open device camera
+Capture issue image
+Select issue category:
+Pothole
+Broken Streetlight
+
+Automatic Data Collection
+Captures GPS location automatically
+Records date and time of complaint
+
+Ticket ID Generation
+Generates unique Ticket IDs for every report
+Prevents duplicate tracking records
+
+Complaint Status Tracking
+Users can enter Ticket ID
+View progress or complaint status
+
+Local Data Storage
+Reports can be stored using:
+Room Database
