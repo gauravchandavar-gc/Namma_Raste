@@ -10,32 +10,70 @@ Problem Statement
 Potholes and damaged streetlights are major causes of road accidents and public inconvenience. Existing complaint systems often involve lengthy paperwork and delayed responses. This project provides a digital solution that enables users to report infrastructure problems instantly using their mobile devices.
 
 Objectives
-Simplify infrastructure issue reporting
-Improve road safety through faster complaint registration
-Enable accurate issue tracking using GPS and Ticket IDs
-Reduce manual work for local authorities
-Support smart city and smart village initiatives
+> Simplify infrastructure issue reporting
+> Improve road safety through faster complaint registration
+> Enable accurate issue tracking using GPS and Ticket IDs
+> Reduce manual work for local authorities
+> Support smart city and smart village initiatives
 
 Features
-Capture Infrastructure Issues
-Open device camera
-Capture issue image
-Select issue category:
-Pothole
-Broken Streetlight
+> Capture Infrastructure Issues
+> Open device camera
+> Capture issue image
+# Select issue category:
+ > Pothole
+ > Broken Streetlight
 
 Automatic Data Collection
-Captures GPS location automatically
-Records date and time of complaint
+> Captures GPS location automatically
+> Records date and time of complaint
 
 Ticket ID Generation
-Generates unique Ticket IDs for every report
-Prevents duplicate tracking records
+> Generates unique Ticket IDs for every report
+> Prevents duplicate tracking records
 
 Complaint Status Tracking
-Users can enter Ticket ID
-View progress or complaint status
+> Users can enter Ticket ID
+> View progress or complaint status
 
 Local Data Storage
-Reports can be stored using:
-Room Database
+> Reports can be stored using:
+ > Room Database
+
+# Tech Stack
+ # Frontend
+  > Kotlin
+  > XML Layouts
+  > Android Studio
+ # Backend / Database
+  > Firebase
+  > Room Database
+ # APIs and Libraries
+  > CameraX API
+  > Location Services API
+
+# Security
+ > User login authentication to prevent spam reports
+ > Unique Ticket ID validation system
+
+# Installation Steps
+>> Prerequisites
+ > Android Studio installed
+ > Android SDK configured
+ > Firebase account (optional for cloud storage)
+
+# Steps
+1. Clone the repository: git clone <repository-link>
+2. Open the project in Android Studio
+3. Sync Gradle files
+4. Configure Firebase (if used)
+5. Run the application on:
+6. Android Emulator
+7. Physical Android Device
+
+
+# Success Criteria
+ > Report generation within 3 clicks
+ > Smooth camera preview on mid-range devices
+ > Proper Ticket ID generation without duplication
+ > Clean and maintainable Kotlin code structure
