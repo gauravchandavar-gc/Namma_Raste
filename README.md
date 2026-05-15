@@ -84,7 +84,7 @@ Local Data Storage
 
 |                                                      Home Screen                                                                   | 
 |------------------------------------------------------------------------------------------------------------------------------------|
-| <img width="500" height="700" alt="Home" src="https://github.com/user-attachments/assets/5427b214-d270-43d4-b3db-edaa3b07f6a9" /> | 
+| <img width="300" height="700" alt="Home" src="https://github.com/user-attachments/assets/5427b214-d270-43d4-b3db-edaa3b07f6a9" /> | 
 
 
 
