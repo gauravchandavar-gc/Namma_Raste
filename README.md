@@ -77,3 +77,23 @@ Local Data Storage
  > Smooth camera preview on mid-range devices
  > Proper Ticket ID generation without duplication
  > Clean and maintainable Kotlin code structure
+
+
+
+<img width="719" height="1600" alt="Home" src="https://github.com/user-attachments/assets/a610a34a-8152-4542-9832-269de15677bf" />
+> This is the home page after Login
+
+
+<img width="719" height="1600" alt="login" src="https://github.com/user-attachments/assets/be8ab23c-a44d-4cf3-b4b9-0fabd1f4be34" />
+> This the login and sign up page (This even help in security)<img width="719" height="1600" alt="working" src="https://github.com/user-attachments/assets/f6ed2c5c-2818-4fdd-8c44-6f8c9074ba23" />
+
+
+
+<img width="719" height="1600" alt="working" src="https://github.com/user-attachments/assets/e61b087b-fefa-4b81-9c39-085985c46557" />
+> When the user Reports the issue
+
+
+<img width="719" height="1600" alt="working" src="https://github.com/user-attachments/assets/d4c1194e-5ea3-4967-b1a6-716aeef37143" />
+> After reporting each users get a unique track id which helps them to search and track the status of the report.
+
+
