@@ -90,20 +90,20 @@ Local Data Storage
 
 |                                                      Login Page                                                                    |
 |------------------------------------------------------------------------------------------------------------------------------------|
-|<img width="719" height="1600" alt="login" src="https://github.com/user-attachments/assets/888727b4-ce25-4084-8c18-18812c724e9b" /> |
+|<img width="300" height="700" alt="login" src="https://github.com/user-attachments/assets/888727b4-ce25-4084-8c18-18812c724e9b" /> |
 
 
 
 |                                                    Reporting issue                                                                   |
 |--------------------------------------------------------------------------------------------------------------------------------------|
-|<img width="719" height="1600" alt="working" src="https://github.com/user-attachments/assets/98c8322e-9b27-4978-a9ef-5e9ddb02ea00" /> |
+|<img width="300" height="700" alt="working" src="https://github.com/user-attachments/assets/98c8322e-9b27-4978-a9ef-5e9ddb02ea00" /> |
 
 
 
 
 |                                              Tracking the Reports Submitted                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------|
-|<img width="719" height="1600" alt="Tracking" src="https://github.com/user-attachments/assets/c8a00339-7aae-4568-bdb8-1683383a9445" /> |
+|<img width="300" height="700" alt="Tracking" src="https://github.com/user-attachments/assets/c8a00339-7aae-4568-bdb8-1683383a9445" /> |
 
 
 
