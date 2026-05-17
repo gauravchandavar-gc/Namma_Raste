@@ -66,10 +66,9 @@ Local Data Storage
 1. Clone the repository: git clone <repository-link>
 2. Open the project in Android Studio
 3. Sync Gradle files
-4. Configure Firebase (if used)
-5. Run the application on:
-6. Android Emulator
-7. Physical Android Device
+4. Run the application on:
+5. Android Emulator
+6. Physical Android Device
 
 
 # Success Criteria
